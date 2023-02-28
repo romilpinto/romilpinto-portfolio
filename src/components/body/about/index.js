@@ -7,17 +7,17 @@ function About() {
       <div className="about-top">
         <div className="about-info">
           Hi! Im 
-         <br /> <span className="info-name">Romil L. Pinto</span>.
+         <br /> <span className="info-name">Roanna Marie  Jugalbot</span>.
          <br /> A 4rth year BSCS Student.
         </div>
         <div className="about-photo">
           <img 
-            src={require("../../../assets/romil.png")}
+            src={require("../../../assets/marie.png")}
             className="picture"
           />
         </div>
       </div>
-      <SocialContact />
+     
     </div>
   );
 }

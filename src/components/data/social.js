@@ -7,13 +7,13 @@ export const SocialData=[
     {
         platform:"Github",
         icon: require("../../assets/icons/github.png"),
-        link:"https://github.com/emeycy",
+        link:"https://github.com/roannamarie21",
     },
 
    
     {
         platform:"Facebook",
         icon: require("../../assets/icons/facebook.png"),
-        link:"https://web.facebook.com/romil.pintolapisan",
+        link:"https://web.facebook.com/roannamari",
     },
 ];
